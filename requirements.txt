@@ -1,0 +1,13 @@
+# Libraries 
+# Useful for a local or VS Code run (Google Colab already has these preinstalled)
+
+numpy>=1.24
+matplotlib>=3.7
+ipywidgets>=8.0
+
+# Required to execute .ipynb files outside a browser notebook server,
+# e.g. in VS Code (which also needs the "Jupyter" extension installed)
+ipykernel>=6.0
+
+# Optional: a standalone notebook server if you don't use VS Code
+# jupyterlab>=4.0
